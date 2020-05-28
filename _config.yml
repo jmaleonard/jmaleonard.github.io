@@ -1,7 +1,7 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
+title: FrontEndWare
+tagline: How now brown cow
+url: https://jmaleonard.github.io
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -33,9 +33,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Jared Leonard
+  url: https://twitter.com/jmaleonard
+  email: jaredmyronarthur+at+gmail.com
 
 # Custom vars
 version: 3.0.0
